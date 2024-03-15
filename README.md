@@ -1,4 +1,4 @@
 # lojavirtual
 
 
-Texto alterado
+Texto alterado 2
